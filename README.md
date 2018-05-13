@@ -1,2 +1,2 @@
-# https://github.com/coursephd/coursephd.github.io
+# https://coursephd.github.io
 Attempted Website
